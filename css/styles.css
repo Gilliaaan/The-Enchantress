@@ -139,9 +139,9 @@ a.white {
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.375rem 2.625rem 1.375rem 2.625rem;
-	border: 0.125rem solid #00c9db;
+	border: 0.125rem solid #cc2121;
 	border-radius: 2rem;
-	background-color: #00c9db;
+	background-color: #cc2121;
 	color: #fff;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -150,7 +150,7 @@ a.white {
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: #00c9db;
+	color: #cc2121;
 	text-decoration: none;
 }
 
@@ -1410,7 +1410,7 @@ input[type='checkbox'] {
 /*     17. Copyright     */
 /*************************/
 .copyright {
-	padding-top: 1rem;
+	padding-top: 2rem;
 	padding-bottom: 0.5rem;
 	background-color: #262431;
 	text-align: center;
